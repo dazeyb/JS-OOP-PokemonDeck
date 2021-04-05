@@ -10,7 +10,7 @@ Creator: WDI-Archer, WDI-Funke <br>
 Adapted + Modified by: Jim Haff and Reuben Ayres<br>
 Topics: Using objects, the keyword `this` and methods to create a game while focusing on OOP, array filter<br>
 
-<hr>
+<hr> 
 
 ![pokemon cards](https://i.ytimg.com/vi/5pDthGSHo58/maxresdefault.jpg)
 
@@ -89,7 +89,8 @@ Here is the array of cards.  Instructions below.
 ]
 ```
 
-## Example Play
+## Example Play         //Use prompt somewhere, don't reinvent the wheel, VERY hard project
+Go as far as you can
 
 - There are 18 Pokemon cards in the deck
 - Eggbert (the player) is dealt three random cards from the deck
